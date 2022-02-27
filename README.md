@@ -33,7 +33,7 @@ The second is to return the Credit Limit corresponding to the given national ide
 
 ![Ekran Resmi 2022-02-27 13 29 37](https://user-images.githubusercontent.com/58665552/155879461-27d5b97a-7695-4b32-b047-41a698eeb6c8.png)
 
-<li>If Credit Score >=1000, return Credit Score (Monthly Income \* 4) and Http Status OK.</li>
+<li>If Credit Score >=1000, return Credit Score (Monthly Income * 4) and Http Status OK.</li>
   
 ![Ekran Resmi 2022-02-27 13 29 57](https://user-images.githubusercontent.com/58665552/155879249-5e74000c-7b97-4d6c-aebb-dfd077c4997d.png)
 
